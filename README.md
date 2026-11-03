@@ -2,10 +2,16 @@
 
 ---
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<div align="center">
+    <img src="https://img.shields.io/badge/Language-C-blue">
+    <img src="https://img.shields.io/badge/Language-C++-purple">
+    <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF">
+    <img src="https://img.shields.io/badge/Language-java-orange">
+    <img src="https://img.shields.io/badge/Language-TypeScript-blue">
+</div>
+
+
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
